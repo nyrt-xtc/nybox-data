@@ -2,9 +2,9 @@
   "announcements": [
     {
       "id": 1,
-      "title": "2.8更新内容",
-      "content": "\n1.增加了无障碍管理器\n2.把ai改成了chatGPT\n3.修复了检查更新，增加了进度条等\n4.调整了界面顺序\n5.修改了部分界面",
-      "update_time": "2025-12-14",
+      "title": "2.9更新内容",
+      "content": "1. 移除了活动和网页等功能。\n2. 修改优化了关于等界面。3. \n修复了api的问题（因为芯api改了网址）。\n4. 修复了检查更新，激活，公告的问题。\n5. 增加shell命令",
+      "update_time": "2026-5-18",
       "priority": "high",
       "type": "update"
     },
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "title": "关于捐赠",
-      "content": "感谢你捐赠并激活了nybox\n目前激活专属功能：\n✓ 九宫格等显示模式\n✓ 去除广告（虽然还没有广告）\n翻译和kimiai工具",
+      "content": "感谢你捐赠并激活了nybox\n目前激活专属功能：\n✓ 九宫格等显示模式\n✓ 查看公告\n翻译和ai工具",
       "update_time": "2025-11-13",
       "priority": "low",
       "type": "member"
